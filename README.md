@@ -1,2 +1,2 @@
 # teste
-test repository for the data science tools
+test repository for the data science tools course
